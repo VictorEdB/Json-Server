@@ -10,7 +10,7 @@
 
 
 
-<a href= "https://vituflix.onrender.com" target= "_blank">Clique aqui e visite o link da Hospedagem.</a>
+<a href="https://vituflix.onrender.com" target="_blank">Clique aqui e visite o link da Hospedagem.</a>
 
 
 
