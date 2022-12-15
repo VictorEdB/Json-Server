@@ -1,0 +1,253 @@
+{
+  "Filmes": [
+    {
+      "id": 1,
+      "titulo": "Tomb Raider: A Origem",
+      "ano": 2018,
+      "genero": "ação e aventura"
+    },
+    {
+      "id": 2,
+      "titulo": "Sonic",
+      "ano": 2022,
+      "genero": "ação, aventura,comédia, ficção científica"
+      
+    },
+    {
+      "id": 3,
+      "titulo": "Sonic 2",
+      "ano": 2022,
+      "genero": "ação, aventura,comédia, ficção científica"
+      
+    },
+    {
+      "id": 4,
+      "titulo": "A Família Addams",
+      "ano": 1991,
+      "genero": "comédia, humor negro, fantasia"
+      
+    },
+    {
+      "id": 5,
+      "titulo": "A Família Addams 2",
+      "ano": 1993,
+      "genero": "comédia, humor negro, fantasia"
+    },
+    {
+      "id": 6,
+      "titulo": "O Espetacular Homem-Aranha",
+      "ano": 2012,
+      "genero": "ação, aventura, fantasia e ficção científica"
+      
+    },
+    {
+      "id": 7,
+      "titulo": "O Espetacular Homem-Aranha 2",
+      "ano": 2012,
+      "genero": "ação, aventura, fantasia e ficção científica"
+    },
+    {
+      "id": 8,
+      "titulo": "Kingsman: Serviço Secreto",
+      "ano": 2014,
+      "genero": "ação, aventura, comédia e espionagem"
+     
+    },
+    {
+      "id": 9,
+      "titulo": "Kingsman: O Círculo Dourado",
+      "ano": 2017,
+      "genero": "ação, aventura, comédia e espionagem"
+    
+    },
+    {
+      "id": 10,
+      "titulo": "King's Man: A Origem",
+      "ano": 2021,
+      "genero": "ação, aventura, comédia e espionagem"
+    
+    },
+    {
+      "id": 11,
+      "titulo": "Ip Man",
+      "ano": 2010,
+      "genero": "ação, artes marciais e drama"
+    
+    },
+    {
+      "id": 12,
+      "titulo": "Ip man 2",
+      "ano": 2010,
+      "genero": "ação, artes marciais e drama"
+     
+    },
+    {
+      "id": 13,
+      "titulo": "Ip man 3",
+      "ano": 2015,
+      "genero": "ação, artes marciais, drama e ficção histórica"
+   
+    },
+    {
+      "id": 14,
+      "titulo": "Ip man 4",
+      "ano": 2018,
+      "genero": "ação, artes marciais, drama e ficção histórica"
+
+    },
+    {
+      "id": 15,
+      "titulo": "Deadpool",
+      "ano": 2016,
+      "genero": "ação e comédia"
+     
+    },
+    {
+      "id": 16,
+      "titulo": "Deadpool 2",
+      "ano": 2018,
+      "genero": "ação e comédia"
+      
+      
+    },
+    {
+      "id": 17,
+      "titulo": "Avatar",
+      "ano": 2009,
+      "genero": "épico, ação, aventura e ficção científica"
+      
+    },
+    {
+      "id": 18,
+      "titulo": "Avatar 2",
+      "ano": 2022,
+      "genero": "épico, ação, aventura e ficção científica"
+     
+    },
+    {
+      "id": 19,
+      "titulo": "Homem-Aranha: Sem Volta para Casa",
+      "ano": 2021,
+      "genero": "ação, aventura, fantasia, comédia e ficção científica"
+
+    
+    },
+    {
+      "id": 20,
+      "titulo": "Uncharted: Fora do Mapa",
+      "ano": 2022,
+      "genero": "ação e aventura"
+
+     
+    },
+    {
+      "id": 21,
+      "titulo": "Zumbilânda",
+      "ano": 2009,
+      "genero": "ação, aventura, comédia e terror"
+   
+    },
+    {
+      "id": 22,
+      "titulo": "Zumbilândia: Atire Duas Vezes",
+      "ano": 2019,
+      "genero": "ação, aventura, comédia e terror"
+      
+    },
+    {
+      "id": 23,
+      "titulo": "Ted",
+      "ano": 2012,
+      "genero": "fantasia e comédia"
+
+      
+    },
+    {
+      "id": 24,
+      "titulo": "Ted 2",
+      "ano": 2015,
+      "genero": "fantasia e comédia"
+     
+    }
+  ],
+  "Salas": [
+    {
+      "id": 1,
+      "nome": "Sala01",
+      "capacidade":30,
+      "categoria": "Namoradeira"
+
+      
+      
+    },
+    {
+      "id": 2,
+      "nome":"Sala02",
+      "capacidade":60,
+      "categoria":"Sala Assombrada"
+      
+    },
+    {
+      "id": 3,
+      "nome":"sala03",
+      "capacidade":45,
+      "categoria":"Sala Aventureira"
+      
+    },
+    {
+      "id": 4,
+      "nome":"Sala04",
+      "capacidade": "30",
+      "categoria": "Sala Dramática"
+      
+    },
+    {
+      "id": 5,
+      "nome":"Sala05",
+      "capacidade": "60",
+      "categoria": "Sala com Suspense"
+      
+    },
+    {
+      "id": 6,
+      "nome":"Sala06",
+      "capacidade":"45",
+      "categoria": "Sala Comediante"
+      
+    }
+  ],
+  "ingresso": [
+    {
+      "id": 1,
+      "nome": "meia",
+      "categoria":"Estudante",
+      "preço": "15 reais"
+    },
+    {
+      "id": 2,
+      "nome": "inteira",
+      "categoria":"Adulto",
+      "preço": "30 reais"
+    },
+    {
+      "id": 3,
+      "nome": "Cupom de desconto",
+      "categoria":"Todas as Idades",
+      "preço": "20 reais"
+    },
+    {
+      "id": 4,
+      "nome":"Afiliação",
+      "categoria":"Parceria como Afiliado",
+      "preço":"9,50 reais"
+    },
+    {
+      "id": 5,
+      "nome":"Gratuidade",
+      "categoria":"Parceria com Empresa de telecomunicação",
+      "preço":"0,00 reais"
+    }
+  ]
+}
+
+
