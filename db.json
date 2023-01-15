@@ -4,109 +4,121 @@
       "id": 1,
       "titulo": "Tomb Raider: A Origem",
       "ano": 2018,
-      "genero": "ação e aventura"
+      "genero": "ação e aventura",
+      "imagem": ""
     },
     {
       "id": 2,
       "titulo": "Sonic",
       "ano": 2022,
-      "genero": "ação, aventura,comédia, ficção científica"
-      
+      "genero": "ação, aventura,comédia, ficção científica",
+      "imagem": ""
     },
     {
       "id": 3,
       "titulo": "Sonic 2",
       "ano": 2022,
-      "genero": "ação, aventura,comédia, ficção científica"
-      
+      "genero": "ação, aventura,comédia, ficção científica",
+      "imagem": ""
     },
     {
       "id": 4,
       "titulo": "A Família Addams",
       "ano": 1991,
-      "genero": "comédia, humor negro, fantasia"
-      
+      "genero": "comédia, humor negro, fantasia",
+      "imagem": ""
     },
     {
       "id": 5,
       "titulo": "A Família Addams 2",
       "ano": 1993,
-      "genero": "comédia, humor negro, fantasia"
+      "genero": "comédia, humor negro, fantasia",
+      "imagem": ""
     },
     {
       "id": 6,
       "titulo": "O Espetacular Homem-Aranha",
       "ano": 2012,
-      "genero": "ação, aventura, fantasia e ficção científica"
-      
+      "genero": "ação, aventura, fantasia e ficção científica",
+      "imagem": ""
     },
     {
       "id": 7,
       "titulo": "O Espetacular Homem-Aranha 2",
       "ano": 2012,
-      "genero": "ação, aventura, fantasia e ficção científica"
+      "genero": "ação, aventura, fantasia e ficção científica",
+      "imagem": ""
     },
     {
       "id": 8,
       "titulo": "Kingsman: Serviço Secreto",
       "ano": 2014,
-      "genero": "ação, aventura, comédia e espionagem"
+      "genero": "ação, aventura, comédia e espionagem",
+      "imagem": ""
      
     },
     {
       "id": 9,
       "titulo": "Kingsman: O Círculo Dourado",
       "ano": 2017,
-      "genero": "ação, aventura, comédia e espionagem"
+      "genero": "ação, aventura, comédia e espionagem",
+      "imagem": ""
     
     },
     {
       "id": 10,
       "titulo": "King's Man: A Origem",
       "ano": 2021,
-      "genero": "ação, aventura, comédia e espionagem"
+      "genero": "ação, aventura, comédia e espionagem",
+      "imagem": ""
     
     },
     {
       "id": 11,
       "titulo": "Ip Man",
       "ano": 2010,
-      "genero": "ação, artes marciais e drama"
+      "genero": "ação, artes marciais e drama",
+      "imagem": ""
     
     },
     {
       "id": 12,
       "titulo": "Ip man 2",
       "ano": 2010,
-      "genero": "ação, artes marciais e drama"
+      "genero": "ação, artes marciais e drama",
+      "imagem": ""
      
     },
     {
       "id": 13,
       "titulo": "Ip man 3",
       "ano": 2015,
-      "genero": "ação, artes marciais, drama e ficção histórica"
+      "genero": "ação, artes marciais, drama e ficção histórica",
+      "imagem": ""
    
     },
     {
       "id": 14,
       "titulo": "Ip man 4",
       "ano": 2018,
-      "genero": "ação, artes marciais, drama e ficção histórica"
+      "genero": "ação, artes marciais, drama e ficção histórica",
+      "imagem": ""
 
     },
     {
       "id": 15,
       "titulo": "Deadpool",
       "ano": 2016,
-      "genero": "ação e comédia"
+      "genero": "ação e comédia",
+      "imagem": ""
      
     },
     {
       "id": 16,
       "titulo": "Deadpool 2",
       "ano": 2018,
-      "genero": "ação e comédia"
+      "genero": "ação e comédia",
+      "imagem": ""
       
       
     },
@@ -114,21 +126,24 @@
       "id": 17,
       "titulo": "Avatar",
       "ano": 2009,
-      "genero": "épico, ação, aventura e ficção científica"
+      "genero": "épico, ação, aventura e ficção científica",
+      "imagem": ""
       
     },
     {
       "id": 18,
       "titulo": "Avatar 2",
       "ano": 2022,
-      "genero": "épico, ação, aventura e ficção científica"
+      "genero": "épico, ação, aventura e ficção científica",
+      "imagem": ""
      
     },
     {
       "id": 19,
       "titulo": "Homem-Aranha: Sem Volta para Casa",
       "ano": 2021,
-      "genero": "ação, aventura, fantasia, comédia e ficção científica"
+      "genero": "ação, aventura, fantasia, comédia e ficção científica",
+      "imagem": ""
 
     
     },
@@ -136,7 +151,8 @@
       "id": 20,
       "titulo": "Uncharted: Fora do Mapa",
       "ano": 2022,
-      "genero": "ação e aventura"
+      "genero": "ação e aventura",
+      "imagem": ""
 
      
     },
@@ -144,21 +160,24 @@
       "id": 21,
       "titulo": "Zumbilânda",
       "ano": 2009,
-      "genero": "ação, aventura, comédia e terror"
+      "genero": "ação, aventura, comédia e terror",
+      "imagem": ""
    
     },
     {
       "id": 22,
       "titulo": "Zumbilândia: Atire Duas Vezes",
       "ano": 2019,
-      "genero": "ação, aventura, comédia e terror"
+      "genero": "ação, aventura, comédia e terror",
+      "imagem": ""
       
     },
     {
       "id": 23,
       "titulo": "Ted",
       "ano": 2012,
-      "genero": "fantasia e comédia"
+      "genero": "fantasia e comédia",
+      "imagem": ""
 
       
     },
@@ -166,7 +185,8 @@
       "id": 24,
       "titulo": "Ted 2",
       "ano": 2015,
-      "genero": "fantasia e comédia"
+      "genero": "fantasia e comédia",
+      "imagem": ""
      
     }
   ],
